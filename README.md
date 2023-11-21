@@ -181,6 +181,7 @@ Just like the purpose of the mock interviews, we want to practice before the act
 DUE DATE: Wednesday, December 13, 2023
 
 ### Part 7: Presentation Day!
+### Saturday, December 16, 2023
 
 It’s show time!  The work is done and you’ve practiced your lines.  This day is for you to showcase what you’ve accomplished in the past 6 months to the Kura Team, your peers, yourselves… and a panel of judges alongside friends and family who are invited to join.  Each group will present their projects which will be reviewed and scored by the judges.  Be prepared to answer any questions that they might have of your deployment.  After each group has gone, the judges will discuss and choose a team whom they think had the best deployment.  There will be a cash prize for the winning team!
 
