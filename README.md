@@ -132,7 +132,7 @@ The Final Project is divided into discrete deliverables, each building on top of
 Pitch us on potential ideas for an end-to-end DevOps project. Think of topics you’re passionate about, knowledge you’re familiar with, or problems relevant to to industries you’d like to work with.
 
 - Requirements: Come up with a few project ideas, including a specific app, and potential technologies for each category, as well as some sample code. Remember, if you can’t find an app, you can’t start on your project.
-- Deliverable: Choose a specific app to work on and submit a rough draft of systems design brainstorming (could be drawn out on paper at this stage)
+- Deliverable: Choose a specific app to work on.
 
 DUE DATE: Wednesday, Nov 29th @ 5:00PM EST
 
@@ -142,7 +142,7 @@ Use your newfound skills to kickstart your project by deploying the app in one o
 Create a shared repo for the team. Ensure all members have access to push changes to the repo. How does a deployment work? What does the flow look like? What tools are involved? Finally, deploy the app. It doesn't have to be fancy yet... that will come later.
 
 - Requirements: The app is deployed locally, and a rough draft of the physical design is due
-- Deliverable: The app can be demoed, and a more detailed overview of how various technologies will work together (physical design) is due
+- Deliverable: A  rough draft of the system design showing how various technologies will work together.
 
 DUE DATE: Wednesday, Nov 29th @ 5:00 PM EST
 
